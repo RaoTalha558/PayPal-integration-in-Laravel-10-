@@ -1,5 +1,5 @@
 # PayPal-integration-in-Laravel-10-
-Laravel 10 Stripe Payment Gateway  in project 
+Laravel 10 Stripe Payment Gateway  in projects 
 
 refrence code 
 https://www.laravelia.com/post/laravel-10-paypal-payment-and-dive-into-details
