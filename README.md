@@ -1,6 +1,9 @@
 # PayPal-integration-in-Laravel-10-
 Laravel 10 Stripe Payment Gateway  in project 
 
+refrence code 
+https://www.laravelia.com/post/laravel-10-paypal-payment-and-dive-into-details
+
 1st steep 
 sub say pehlay apna paypaly devloper per aj k account create kr k PAYPAL_SANDBOX_CLIENT_ID=   ,PAYPAL_SANDBOX_CLIENT_SECRET=
 ye lani hogi 
